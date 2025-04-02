@@ -1,0 +1,27 @@
+*{
+    margin: 2px;
+    padding: 0;
+}
+
+.body {
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(100, 10, 150, 0.5);
+}
+
+.corp {
+    width: 430px;
+}
+
+.container {
+    background-color: rgb(105, 16, 102,0.10);
+    border-radius: 20px;
+    border: 1px solid rgb(105, 16, 102);
+    padding: 50px;
+    width: 100%;
+    max-width: 550px;
+    align-items: center;
+    box-shadow: 2px 5px 5px  rgba(88, 36, 85, 0.15), 1px 5px 2px 9px rgba(74, 7, 100, 0.1);
+}
